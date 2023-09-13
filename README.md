@@ -1,4 +1,4 @@
-**E-commerce Customer Segmentation with RFM Analysis**
+#E-commerce Customer Segmentation with RFM Analysis
 
 Project Goal:
 My primary goal in this project is to perform RFM Analysis to segment customers effectively. Through this analysis, we aim to:
